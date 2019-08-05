@@ -1,11 +1,11 @@
 {
-  "name": "socialape-client",
+  "name": "socialApp-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dayjs": "^1.8.11",
     "jwt-decode": "^2.2.0",
     "react": "^16.8.4",
@@ -31,5 +31,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  //"proxy": "add functions link here to work"
+  "proxy": "https://us-central1-socialapp-e26fd.cloudfunctions.net/api"
 }
