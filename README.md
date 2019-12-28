@@ -1,5 +1,7 @@
 This is a social app using React, Redux, and Firebase.
 
+# Backend firebase code [ugujral/socialApp-functions](https://github.com/ugujral/socialApp-functions)
+
 ## 1: API Base URL
 
 Add firebase url as the 'proxy' value in package.json
